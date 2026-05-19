@@ -11,3 +11,5 @@ Data Layer: Implements the Repository Pattern to abstract database operations, u
 Domain Layer: Strongly typed Entities (WorkRequest, Note) and Enums (Status, Priority) that guarantee data integrity.
 
 A SQL Server Script for initial db configuration has been provided
+
+#Frontend -- Is in frontend folder
