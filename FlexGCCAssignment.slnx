@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DataLayer/DataLayer.csproj" />
+  <Project Path="DTO/DTO.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="FlexGCCAssignment/FlexGCCAssignment.csproj" />
+  <Project Path="ServiceLayer/ServiceLayer.csproj" />
+</Solution>

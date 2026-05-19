@@ -1,0 +1,6 @@
+@FlexGCCAssignment_HostAddress = http://localhost:5274
+
+GET {{FlexGCCAssignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
