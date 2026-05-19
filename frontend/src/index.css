@@ -1,0 +1,7 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 20px; }
+.app { max-width: 800px; margin: 0 auto; }
+.note { border: 1px solid #ddd; padding: 12px; margin-bottom: 8px; border-radius: 6px; }
+.note-title { font-weight: bold; }
+.controls { margin-bottom: 12px; }
+input, textarea { width: 100%; padding: 8px; box-sizing: border-box; margin-bottom: 8px }
+button { padding: 8px 12px }
